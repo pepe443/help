@@ -4230,18 +4230,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_meal": {
-    "criteria": {
-      "bestiary": "2025-07-01 01:00:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-07-01 00:59:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-07-01 00:58:58 +0000"
@@ -4257,6 +4245,18 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-07-01 00:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-01 00:59:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-07-01 01:00:09 +0000"
     },
     "done": true
   },
