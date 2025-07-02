@@ -6927,3 +6927,24 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [02Jul2025 02:23:00.744] [Server thread/DEBUG] [firstaid/]: Sending damage model to literal{C0LIGAMES}
 [02Jul2025 02:23:00.760] [Server thread/DEBUG] [Scaling Health/]: Sending login packet to player ServerPlayer['C0LIGAMES'/15876, l='ServerLevel[world]', x=-249.72, y=-5.00, z=-246.65]
 [02Jul2025 02:23:30.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported joaocover to -249.960000, -5.000000, -246.370000]
+[02Jul2025 02:23:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> puedes ponerte la skin que mande al wasap?
+[02Jul2025 02:23:50.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> DEJA CHECO
+[02Jul2025 02:24:01.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 02:24:01.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 02:24:22.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PERAME
+[02Jul2025 02:24:25.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[02Jul2025 02:24:33.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> TODO ERA PARTE DE MI PLANNN
+[02Jul2025 02:24:37.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XDXDXD
+[02Jul2025 02:24:47.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> joda
+[02Jul2025 02:25:01.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> dia 200 sale nueva dificultas
+[02Jul2025 02:25:05.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya?
+[02Jul2025 02:25:31.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[02Jul2025 02:25:31.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[02Jul2025 02:25:40.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[02Jul2025 02:26:46.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[02Jul2025 02:29:01.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 02:29:01.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 02:30:19.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[02Jul2025 02:30:27.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[02Jul2025 02:31:47.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[02Jul2025 02:32:06.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
