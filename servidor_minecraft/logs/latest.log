@@ -531,3 +531,21 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [02Jul2025 02:30:27.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
 [02Jul2025 02:31:47.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
 [02Jul2025 02:32:06.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[02Jul2025 02:37:55.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.53.118.236:38489] logged in with entity id 16759 at (-264.8051966672804, 64.13030191957351, -264.7716584729824)
+[02Jul2025 02:37:55.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[02Jul2025 02:39:02.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[02Jul2025 02:39:19.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[02Jul2025 02:42:07.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[02Jul2025 02:42:21.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[02Jul2025 02:42:24.615] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.201.115.94:36863] logged in with entity id 17116 at (-249.39644292394294, -5.0, -243.30000001192093)
+[02Jul2025 02:42:24.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[02Jul2025 02:42:35.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to joaocover]
+[02Jul2025 02:42:41.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[02Jul2025 02:42:45.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> SUICIDATE
+[02Jul2025 02:42:46.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> tmr
+[02Jul2025 02:42:47.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[02Jul2025 02:42:57.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[02Jul2025 02:43:03.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> no cargo
+[02Jul2025 02:43:38.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[02Jul2025 02:43:48.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported Anzu_ara to -248.440000, -4.880000, -243.990000]
+[02Jul2025 02:43:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ni siquiera para eso
