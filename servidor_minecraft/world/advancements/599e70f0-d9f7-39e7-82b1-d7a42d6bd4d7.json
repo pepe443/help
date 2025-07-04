@@ -6765,6 +6765,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow_smithing": {
+    "criteria": {
+      "has_snow": "2025-07-04 01:39:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:flanged_mace": {
     "criteria": {
       "has_flanged_mace": "2025-07-04 01:34:32 +0000"
