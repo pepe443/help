@@ -310,3 +310,27 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [04Jul2025 01:28:58.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tienes todo en tu inventario no?
 [04Jul2025 01:29:06.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> no
 [04Jul2025 01:29:17.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> TAMPOCO VALE LA AMBROSIA
+[04Jul2025 01:31:23.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> Ya?
+[04Jul2025 01:31:27.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NO
+[04Jul2025 01:31:44.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> STOY BUSCANDO ALGO
+[04Jul2025 01:32:33.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no arco no?
+[04Jul2025 01:32:39.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SIN ARCO
+[04Jul2025 01:33:40.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 5.554394314108521,-0.2712241076924897,-8.612873525672285
+[04Jul2025 01:33:47.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
+[04Jul2025 01:33:47.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[04Jul2025 01:33:47.079] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jul2025 01:33:49.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[04Jul2025 01:34:08.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Reaping What You Sow]
+[04Jul2025 01:34:12.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.201.115.94:37237] logged in with entity id 6707 at (239.94593031453417, 72.41999998688698, -669.865873623212)
+[04Jul2025 01:34:12.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[04Jul2025 01:34:32.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Smash And Bash!]
+[04Jul2025 01:34:35.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CARAJO
+[04Jul2025 01:34:44.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 6.517042337340854,-2.7358406727282727,-7.128593263808511
+[04Jul2025 01:34:57.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
+[04Jul2025 01:34:57.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[04Jul2025 01:35:20.938] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.201.115.94:40175] logged in with entity id 7140 at (281.7022100069782, 68.0, -711.0378563108108)
+[04Jul2025 01:35:20.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[04Jul2025 01:35:34.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 10.175595282074426,0.49520087700592796,0.19832332406122077
+[04Jul2025 01:38:12.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya?
+[04Jul2025 01:38:17.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> casi
+[04Jul2025 01:39:18.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> donde esta
