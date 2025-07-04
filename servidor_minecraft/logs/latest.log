@@ -474,3 +474,157 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [04Jul2025 02:09:43.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok
 [04Jul2025 02:09:48.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> comparte la ubicacion
 [04Jul2025 02:10:00.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> VEN PE
+[04Jul2025 02:11:00.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ME VOY A DORMIR
+[04Jul2025 02:11:07.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pasa coords
+[04Jul2025 02:11:15.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> todavia
+[04Jul2025 02:11:24.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pasa pe
+[04Jul2025 02:11:30.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PERA ME CONFUNDI
+[04Jul2025 02:11:39.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pasa coords
+[04Jul2025 02:11:42.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> OK
+[04Jul2025 02:11:43.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> lo pongo al toque
+[04Jul2025 02:11:54.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ven
+[04Jul2025 02:12:23.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> RECUERDAS LA SABANA?
+[04Jul2025 02:12:26.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> si
+[04Jul2025 02:12:39.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> vs defrente de la aldea
+[04Jul2025 02:12:44.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pasa coorsd
+[04Jul2025 02:12:48.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> volteas a la isquierda y llegs
+[04Jul2025 02:12:51.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> lo recupero altoque
+[04Jul2025 02:12:57.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> mñn te doy
+[04Jul2025 02:12:58.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NO TENGO COORD
+[04Jul2025 02:13:07.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ultima ubicacion de muerte?
+[04Jul2025 02:13:20.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> donde es la sabana pis
+[04Jul2025 02:13:27.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> nms
+[04Jul2025 02:13:37.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> donde quemaste el barco
+[04Jul2025 02:13:39.016] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:savanna took 121 ms
+[04Jul2025 02:14:01.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> hago tp?
+[04Jul2025 02:14:06.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -1025.500000, 73.000000, -980.500000]
+[04Jul2025 02:14:06.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[04Jul2025 02:14:17.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved too quickly! -6.662887109511416,1.8324897155252984E-11,-7.811782694189276
+[04Jul2025 02:14:17.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved too quickly! -6.883361664545703,1.8211210317531368E-11,-8.136409053225577
+[04Jul2025 02:14:17.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved too quickly! -7.103075143953902,1.800515292416094E-11,-8.46243852963039
+[04Jul2025 02:14:17.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved too quickly! -7.3220711782359444,1.7749357539287303E-11,-8.78975120387247
+[04Jul2025 02:14:17.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved too quickly! -7.540389012489015,1.7472245872340864E-11,-9.118239118574309
+[04Jul2025 02:14:17.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved too quickly! -7.758067202714187,1.7209345060109627E-11,-9.44780304828788
+[04Jul2025 02:14:17.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved too quickly! -7.975146940629884,1.6974865957308793E-11,-9.778349603468826
+[04Jul2025 02:14:17.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved too quickly! -8.191665289468574,1.6775913991295965E-11,-10.10979472235357
+[04Jul2025 02:14:17.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved too quickly! -8.407655598687938,1.6626700016786344E-11,-10.44206273073047
+[04Jul2025 02:14:17.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved too quickly! -8.623154385293333,1.652722403377993E-11,-10.775081464969787
+[04Jul2025 02:14:17.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved too quickly! -8.838191253096966,1.6470380614919122E-11,-11.10878798573782
+[04Jul2025 02:14:17.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved too quickly! -9.052799357336653,1.644906433284632E-11,-11.443121601970574
+[04Jul2025 02:14:17.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported joaocover to -1025.300000, 63.000000, -980.970000]
+[04Jul2025 02:14:24.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok
+[04Jul2025 02:14:26.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> toque
+[04Jul2025 02:15:01.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> esta muerto XD
+[04Jul2025 02:15:07.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ese no
+[04Jul2025 02:15:22.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tienes balde de agua?
+[04Jul2025 02:15:29.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NEL
+[04Jul2025 02:15:45.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> buena
+[04Jul2025 02:15:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> donde?
+[04Jul2025 02:15:51.444] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[04Jul2025 02:16:41.835] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[04Jul2025 02:16:42.008] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[04Jul2025 02:16:49.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> where?
+[04Jul2025 02:16:59.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> siganme los pdj
+[04Jul2025 02:17:00.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> bajo tierra?
+[04Jul2025 02:17:13.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> uy
+[04Jul2025 02:17:16.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> una dungeon
+[04Jul2025 02:17:17.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> tmr
+[04Jul2025 02:17:20.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> lya la exploraste?
+[04Jul2025 02:17:25.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> OK
+[04Jul2025 02:17:38.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> aca?
+[04Jul2025 02:17:40.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> esta la esplore
+[04Jul2025 02:17:47.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CREO QUE SI
+[04Jul2025 02:18:15.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> TIENES ANTORCHAS?
+[04Jul2025 02:18:20.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> nos
+[04Jul2025 02:18:29.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no es aca we
+[04Jul2025 02:19:07.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> we on ta en dragon
+[04Jul2025 02:19:09.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tengo 5
+[04Jul2025 02:19:15.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> X2
+[04Jul2025 02:19:25.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ESTABA EN UNA DANGUEON
+[04Jul2025 02:19:52.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> VEN
+[04Jul2025 02:20:15.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> aca abajo?
+[04Jul2025 02:20:18.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SI CREO
+[04Jul2025 02:20:27.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> alejate
+[04Jul2025 02:20:31.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> voy a explorar rapido
+[04Jul2025 02:20:33.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> busca
+[04Jul2025 02:20:52.584] [Server thread/INFO] [Scaling Health/]: Blight Vindicator was killed by C0LIGAMES
+[04Jul2025 02:21:00.141] [Server thread/INFO] [Scaling Health/]: Blight Provoker was killed by joaocover
+[04Jul2025 02:21:07.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vex
+[04Jul2025 02:21:08.707] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Jul2025 02:21:08.707] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[04Jul2025 02:21:11.383] [Server thread/INFO] [Scaling Health/]: Blight Marauder was killed by C0LIGAMES
+[04Jul2025 02:21:25.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> tp?
+[04Jul2025 02:21:38.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported joaocover to -1368.070000, 29.000000, -1472.930000]
+[04Jul2025 02:21:40.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> evoquer?
+[04Jul2025 02:21:45.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> YES
+[04Jul2025 02:22:32.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by C0LIGAMES
+[04Jul2025 02:22:33.435] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Jul2025 02:22:33.435] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[04Jul2025 02:22:37.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tmr
+[04Jul2025 02:22:40.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PDJ
+[04Jul2025 02:22:46.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported joaocover to -1336.540000, 29.000000, -1558.560000]
+[04Jul2025 02:22:49.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> espe
+[04Jul2025 02:22:54.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> spawn
+[04Jul2025 02:23:04.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ww
+[04Jul2025 02:23:12.946] [Worker-Main-61/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Jul2025 02:23:12.946] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[04Jul2025 02:23:12.947] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[04Jul2025 02:23:21.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> donta
+[04Jul2025 02:23:38.332] [Server thread/INFO] [Scaling Health/]: Blight Marauder was killed by C0LIGAMES
+[04Jul2025 02:23:49.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> PTMA
+[04Jul2025 02:23:52.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ME ASUSTASTE
+[04Jul2025 02:24:02.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ni que fuera el grotesco
+[04Jul2025 02:24:24.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by C0LIGAMES
+[04Jul2025 02:24:25.734] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Jul2025 02:24:25.734] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[04Jul2025 02:24:43.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> perdon
+[04Jul2025 02:24:49.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> te pegue era invisible
+[04Jul2025 02:25:12.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Basher
+[04Jul2025 02:25:13.178] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Jul2025 02:25:13.178] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[04Jul2025 02:25:26.630] [Server thread/INFO] [Scaling Health/]: Blight Basher was killed by C0LIGAMES
+[04Jul2025 02:25:45.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> y el dragon?
+[04Jul2025 02:25:52.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> estaba aqui
+[04Jul2025 02:26:26.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> lo encontre :V
+[04Jul2025 02:26:36.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to joaocover]
+[04Jul2025 02:26:51.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> NO JODAS
+[04Jul2025 02:26:52.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ES 5
+[04Jul2025 02:26:54.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> O 4
+[04Jul2025 02:27:00.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pasa pico
+[04Jul2025 02:27:01.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> bueno
+[04Jul2025 02:27:12.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> es geoda XD
+[04Jul2025 02:27:17.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> a esta abajo
+[04Jul2025 02:27:19.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pasa pico
+[04Jul2025 02:27:21.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PTMR
+[04Jul2025 02:27:48.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> esa webada esta rota pe
+[04Jul2025 02:28:05.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> a ver
+[04Jul2025 02:28:05.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SABES QUE PARA MAÑAN
+[04Jul2025 02:28:09.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> lo distraigo
+[04Jul2025 02:28:12.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> y tu le pegas
+[04Jul2025 02:28:13.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NO JODAS
+[04Jul2025 02:28:19.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SERIA AL REVES
+[04Jul2025 02:28:32.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was struck with lightning by Lightning Dragon
+[04Jul2025 02:28:33.495] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Jul2025 02:28:33.495] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[04Jul2025 02:28:39.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tu eres webon no?
+[04Jul2025 02:28:42.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ES ELECTRICO
+[04Jul2025 02:28:52.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> oe cojudo
+[04Jul2025 02:28:58.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> te va a sacar tu mrd XD
+[04Jul2025 02:28:59.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was energized by Lightning Dragon
+[04Jul2025 02:29:00.509] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Jul2025 02:29:00.509] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[04Jul2025 02:29:11.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> vas a ayudar?
+[04Jul2025 02:29:15.322] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
+[04Jul2025 02:29:18.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pera
+[04Jul2025 02:29:24.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported joaocover to -1403.140000, 33.000000, -1469.590000]
+[04Jul2025 02:29:37.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by C0LIGAMES
+[04Jul2025 02:29:39.477] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Jul2025 02:29:39.477] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[04Jul2025 02:29:52.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> HAS ROTO LA CAMA VERDAD?
+[04Jul2025 02:29:53.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported joaocover to -1402.980000, 33.560000, -1470.380000]
+[04Jul2025 02:30:01.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya mira
+[04Jul2025 02:30:05.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> vere si sobrevivo
+[04Jul2025 02:30:10.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NO JODAS
+[04Jul2025 02:30:11.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> lo distrigo
+[04Jul2025 02:30:14.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> corre por tus cosas
+[04Jul2025 02:30:35.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Gamerule keepInventory is now set to: true]
