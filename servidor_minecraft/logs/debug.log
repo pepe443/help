@@ -7577,3 +7577,97 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [04Jul2025 01:50:16.073] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [04Jul2025 01:50:18.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [04Jul2025 01:50:28.822] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:50:31.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 01:50:31.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 01:50:33.071] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:50:48.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> VOY A CREAR ALGO
+[04Jul2025 01:50:59.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tu tridentito?
+[04Jul2025 01:51:05.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NO POR?=
+[04Jul2025 01:51:30.536] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:51:48.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> yas?
+[04Jul2025 01:52:33.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> cuanto mas....?
+[04Jul2025 01:52:59.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> tenes lana
+[04Jul2025 01:53:02.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no
+[04Jul2025 01:53:08.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no tengo lana xD
+[04Jul2025 01:53:46.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya?
+[04Jul2025 01:53:53.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tengo que apresurarme
+[04Jul2025 01:53:54.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [A not-so-pointy Stick!]
+[04Jul2025 01:54:12.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> OK
+[04Jul2025 01:54:19.588] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:54:21.021] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:54:42.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ya?
+[04Jul2025 01:55:16.892] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:55:17.839] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:55:30.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> yap?
+[04Jul2025 01:55:31.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 01:55:31.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 01:55:32.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SI
+[04Jul2025 01:55:42.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> 3
+[04Jul2025 01:55:43.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> 2
+[04Jul2025 01:55:44.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> 1
+[04Jul2025 01:55:45.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya
+[04Jul2025 01:55:50.923] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:55:50.924] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:55:53.677] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:55:53.677] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:55:56.832] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:55:56.832] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:55:57.125] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:55:57.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:55:57.425] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:56:00.326] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:56:00.326] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:56:00.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:56:00.624] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:56:00.889] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:56:00.890] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:56:04.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:56:04.424] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:56:04.724] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:56:04.725] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:56:05.024] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:56:05.024] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:56:05.774] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:56:05.775] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:56:12.223] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:56:12.224] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:56:12.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by C0LIGAMES
+[04Jul2025 01:56:13.531] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:56:13.531] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Jul2025 01:56:13.532] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[04Jul2025 01:56:27.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> sa invisibilidad
+[04Jul2025 01:56:43.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> bueno acepta
+[04Jul2025 01:56:55.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> no
+[04Jul2025 01:57:00.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> dame las cosas
+[04Jul2025 01:57:07.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok ok
+[04Jul2025 01:57:24.354] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:57:24.354] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:57:27.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ?
+[04Jul2025 01:57:34.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Blade of the Samurai]
+[04Jul2025 01:57:34.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> mi bandaje
+[04Jul2025 01:57:36.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Reaping What You Sow]
+[04Jul2025 01:57:37.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> y medkit
+[04Jul2025 01:57:50.003] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 01:57:50.004] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jul2025 01:57:53.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> eso mas
+[04Jul2025 01:58:07.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> la mocjila
+[04Jul2025 01:58:18.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [A not-so-pointy Stick!]
+[04Jul2025 01:58:27.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> falta on XD
+[04Jul2025 01:58:33.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tire las cosas pa mi mochila
+[04Jul2025 01:58:49.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> tengo esto
+[04Jul2025 01:59:00.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> yap
+[04Jul2025 01:59:08.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> asi cerramos tu pvp
+[04Jul2025 01:59:20.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> solo por encantamientos
+[04Jul2025 01:59:23.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> quedate con la cantinplora
+[04Jul2025 01:59:41.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> me ayudas a conseguir mi mochila
+[04Jul2025 01:59:48.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> on ta?
+[04Jul2025 01:59:52.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> con el dragon
+[04Jul2025 02:00:02.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[04Jul2025 02:00:08.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> se la quedo
+[04Jul2025 02:00:12.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ok
+[04Jul2025 02:00:24.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> entonces recupero tus cosas solo quiero las escamas
+[04Jul2025 02:00:31.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> VALE
+[04Jul2025 02:00:31.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 02:00:31.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 02:00:31.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> q nivel es?
+[04Jul2025 02:00:37.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ESTEW ES TRES

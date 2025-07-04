@@ -7142,5 +7142,29 @@
     },
     "done": true
   },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-07-04 01:57:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-07-04 01:57:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow_smithing": {
+    "criteria": {
+      "has_snow": "2025-07-04 01:56:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:quarterstaff": {
+    "criteria": {
+      "has_quarterstaff": "2025-07-04 01:53:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

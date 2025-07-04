@@ -2147,6 +2147,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "zombie_head": "2025-07-04 01:47:21 +0000",
       "skeleton_skull": "2025-06-16 01:00:22 +0000"
     },
     "done": false
@@ -6759,9 +6760,105 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_spear": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/steel_tower_shield": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_longbow": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:scythe": {
     "criteria": {
       "has_scythe": "2025-07-04 01:34:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_halberd": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_scythe": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_throwing_knife": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_parrying_dagger": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_boomerang": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_warhammer": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_longsword": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_rapier": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_saber": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_flanged_mace": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_katana": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_heavy_crossbow": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
     },
     "done": true
   },
@@ -6771,9 +6868,81 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_quarterstaff": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_tomahawk": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_lance": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_battle_hammer": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_pike": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:flanged_mace": {
     "criteria": {
       "has_flanged_mace": "2025-07-04 01:34:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_battleaxe": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/steel_basic_shield": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_javelin": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_dagger": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_glaive": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:quarterstaff": {
+    "criteria": {
+      "has_quarterstaff": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_greatsword": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-04 01:58:18 +0000"
     },
     "done": true
   },
