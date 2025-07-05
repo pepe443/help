@@ -1271,6 +1271,7 @@
       "beef": "2025-06-29 00:28:11 +0000",
       "apple": "2025-06-29 00:28:08 +0000",
       "potato": "2025-06-28 01:29:35 +0000",
+      "mutton": "2025-07-05 01:29:00 +0000",
       "bread": "2025-06-28 02:36:22 +0000",
       "golden_apple": "2025-06-29 03:52:06 +0000",
       "rotten_flesh": "2025-06-25 23:39:15 +0000",
@@ -4257,6 +4258,30 @@
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2025-07-01 01:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-05 01:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-05 01:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-05 01:28:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-07-05 01:28:35 +0000"
     },
     "done": true
   },

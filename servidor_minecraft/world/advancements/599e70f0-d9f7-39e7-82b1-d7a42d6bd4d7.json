@@ -2151,6 +2151,7 @@
   "spartanweaponry:collect_heads": {
     "criteria": {
       "zombie_head": "2025-07-04 01:47:21 +0000",
+      "illager_head": "2025-07-05 01:24:29 +0000",
       "skeleton_skull": "2025-06-16 01:00:22 +0000"
     },
     "done": false
@@ -6946,6 +6947,12 @@
   "spartanweaponry:recipes/steel_greatsword": {
     "criteria": {
       "has_steel_ingot": "2025-07-04 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-07-05 01:21:39 +0000"
     },
     "done": true
   },

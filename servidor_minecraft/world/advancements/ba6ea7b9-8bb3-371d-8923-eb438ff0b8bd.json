@@ -7173,5 +7173,11 @@
     },
     "done": true
   },
+  "illagerinvasion:recipes/misc/hallowed_gem": {
+    "criteria": {
+      "has_unusual_dust_and_illusionary_dust": "2025-07-05 01:28:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
