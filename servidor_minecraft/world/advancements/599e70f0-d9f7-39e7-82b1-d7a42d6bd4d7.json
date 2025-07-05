@@ -28,11 +28,13 @@
       "minecraft:savanna_plateau": "2025-06-24 23:54:31 +0000",
       "minecraft:beach": "2025-06-22 02:47:32 +0000",
       "minecraft:dark_forest": "2025-06-27 22:58:35 +0000",
+      "minecraft:mangrove_swamp": "2025-07-05 02:35:57 +0000",
       "minecraft:sparse_jungle": "2025-06-22 22:45:45 +0000",
       "minecraft:river": "2025-06-16 00:42:30 +0000",
       "minecraft:lukewarm_ocean": "2025-06-22 22:30:31 +0000",
       "minecraft:snowy_plains": "2025-06-29 02:25:56 +0000",
       "minecraft:dripstone_caves": "2025-06-25 00:32:34 +0000",
+      "minecraft:swamp": "2025-07-05 02:35:48 +0000",
       "minecraft:cold_ocean": "2025-06-22 22:21:46 +0000",
       "minecraft:forest": "2025-06-16 00:41:51 +0000",
       "minecraft:lush_caves": "2025-07-01 01:45:47 +0000",
@@ -768,6 +770,7 @@
       "minecraft:creeper": "2025-06-26 23:51:10 +0000",
       "minecraft:slime": "2025-06-25 01:54:01 +0000",
       "minecraft:evoker": "2025-06-27 23:37:31 +0000",
+      "minecraft:husk": "2025-07-05 02:19:26 +0000",
       "minecraft:cave_spider": "2025-07-02 02:43:12 +0000",
       "minecraft:enderman": "2025-06-21 18:00:54 +0000",
       "minecraft:vex": "2025-06-29 03:50:15 +0000",
@@ -1053,9 +1056,11 @@
       "cooked_mutton": "2025-06-25 02:11:38 +0000",
       "cooked_beef": "2025-06-22 02:45:24 +0000",
       "beef": "2025-07-04 02:16:40 +0000",
+      "porkchop": "2025-07-05 02:34:21 +0000",
       "potato": "2025-06-27 22:03:19 +0000",
       "mutton": "2025-07-04 02:16:35 +0000",
       "bread": "2025-06-27 22:07:44 +0000",
+      "golden_apple": "2025-07-05 02:21:48 +0000",
       "suspicious_stew": "2025-06-22 02:16:36 +0000",
       "golden_carrot": "2025-06-27 23:08:20 +0000",
       "cooked_chicken": "2025-06-16 00:42:37 +0000",
@@ -2033,6 +2038,7 @@
     "criteria": {
       "entered_tower_of_the_undead": "2025-07-04 02:17:29 +0000",
       "entered_stables": "2025-06-27 23:00:47 +0000",
+      "entered_hay_storage": "2025-07-05 02:12:24 +0000",
       "entered_pirate_ship": "2025-06-29 03:47:42 +0000",
       "entered_large_dungeon": "2025-06-16 00:57:46 +0000",
       "entered_dungeon_variant": "2025-06-24 23:03:40 +0000",
@@ -2152,7 +2158,8 @@
     "criteria": {
       "zombie_head": "2025-07-04 01:47:21 +0000",
       "illager_head": "2025-07-05 01:24:29 +0000",
-      "skeleton_skull": "2025-06-16 01:00:22 +0000"
+      "skeleton_skull": "2025-06-16 01:00:22 +0000",
+      "husk_head": "2025-07-05 02:21:39 +0000"
     },
     "done": false
   },
@@ -6953,6 +6960,192 @@
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-07-05 01:21:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-07-05 02:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-05 01:48:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-07-05 01:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-05 02:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-05 02:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-05 02:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-07-05 02:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-07-05 01:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-07-05 02:55:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-05 01:48:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-05 02:35:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-07-05 01:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-07-05 02:28:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-07-05 01:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-07-05 02:55:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-05 02:28:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-05 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-07-05 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-07-05 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-07-05 02:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-07-05 02:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-05 02:55:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-07-05 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-05 02:55:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-07-05 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-05 01:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-07-05 02:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-07-05 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-05 02:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-05 02:55:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-07-05 01:51:01 +0000"
     },
     "done": true
   },
