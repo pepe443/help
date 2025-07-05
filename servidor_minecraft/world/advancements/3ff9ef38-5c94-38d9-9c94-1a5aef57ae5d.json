@@ -30,6 +30,7 @@
       "minecraft:sparse_jungle": "2025-07-05 11:38:59 +0000",
       "minecraft:river": "2025-07-05 02:29:45 +0000",
       "minecraft:lukewarm_ocean": "2025-07-05 11:04:25 +0000",
+      "minecraft:snowy_plains": "2025-07-05 12:26:44 +0000",
       "minecraft:snowy_taiga": "2025-07-05 12:04:09 +0000",
       "minecraft:cold_ocean": "2025-07-05 12:02:05 +0000",
       "minecraft:forest": "2025-07-05 01:44:58 +0000",
@@ -1706,6 +1707,36 @@
   "iceandfire:iceandfire/tame_amphithere": {
     "criteria": {
       "tame_rat": "2025-07-05 11:39:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-07-05 12:30:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-07-05 12:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-07-05 12:28:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-07-05 12:31:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-07-05 12:30:41 +0000"
     },
     "done": true
   },
