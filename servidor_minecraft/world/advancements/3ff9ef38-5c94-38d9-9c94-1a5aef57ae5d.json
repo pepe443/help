@@ -25,6 +25,7 @@
       "minecraft:bamboo_jungle": "2025-07-05 02:47:42 +0000",
       "minecraft:beach": "2025-07-05 02:47:23 +0000",
       "minecraft:dark_forest": "2025-07-05 02:46:42 +0000",
+      "minecraft:sparse_jungle": "2025-07-05 11:38:59 +0000",
       "minecraft:river": "2025-07-05 02:29:45 +0000",
       "minecraft:lukewarm_ocean": "2025-07-05 11:04:25 +0000",
       "minecraft:forest": "2025-07-05 01:44:58 +0000",
@@ -33,7 +34,11 @@
       "minecraft:jungle": "2025-07-05 02:52:36 +0000",
       "minecraft:ocean": "2025-07-05 02:48:32 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-05 01:43:32 +0000",
-      "minecraft:old_growth_birch_forest": "2025-07-05 02:45:25 +0000"
+      "minecraft:windswept_savanna": "2025-07-05 11:38:56 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-05 02:45:25 +0000",
+      "minecraft:meadow": "2025-07-05 11:18:12 +0000",
+      "minecraft:savanna": "2025-07-05 11:20:04 +0000",
+      "minecraft:plains": "2025-07-05 11:17:25 +0000"
     },
     "done": false
   },
@@ -1225,6 +1230,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-07-05 11:14:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_dagger": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 11:08:16 +0000"
@@ -1240,6 +1251,18 @@
   "travelersbackpack:recipes/misc/iron": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 11:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-07-05 11:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-05 11:39:37 +0000"
     },
     "done": true
   },
@@ -1261,9 +1284,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-05 11:14:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-07-05 11:14:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge_smithing": {
+    "criteria": {
+      "has_sponge": "2025-07-05 11:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-05 11:36:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 11:08:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_feather": "2025-07-05 11:14:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-07-05 11:14:47 +0000"
     },
     "done": true
   },
@@ -1285,6 +1344,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_amphithere": {
+    "criteria": {
+      "tame_rat": "2025-07-05 11:39:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_saber": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 11:08:16 +0000"
@@ -1297,9 +1362,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-05 11:14:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 11:08:16 +0000"
+    },
+    "done": true
+  },
+  "packedup:silver_or_gold_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-05 11:22:10 +0000"
     },
     "done": true
   },
@@ -1321,6 +1398,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hay_smithing": {
+    "criteria": {
+      "has_hay": "2025-07-05 11:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-07-05 11:08:01 +0000"
@@ -1336,6 +1419,12 @@
   "spartanweaponry:recipes/iron_quarterstaff": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 11:08:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman_smithing": {
+    "criteria": {
+      "has_enderman": "2025-07-05 11:35:34 +0000"
     },
     "done": true
   },
@@ -1390,6 +1479,18 @@
   "spartanweaponry:recipes/iron_pike": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 11:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-05 11:14:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-07-05 11:14:47 +0000"
     },
     "done": true
   },
@@ -1477,9 +1578,21 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/diamond_from_gold": {
+    "criteria": {
+      "recipe_condition": "2025-07-05 11:22:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 11:08:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_feather": "2025-07-05 11:14:47 +0000"
     },
     "done": true
   },
@@ -1495,9 +1608,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_feather": "2025-07-05 11:14:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-05 11:14:22 +0000"
+    },
+    "done": true
+  },
   "hangglider:recipes/tools/glider_framework": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 11:08:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-05 11:26:06 +0000"
     },
     "done": true
   },
@@ -1516,6 +1647,24 @@
   "spartanweaponry:recipes/iron_greatsword": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 11:08:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-07-05 11:35:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_feather": "2025-07-05 11:14:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee_smithing": {
+    "criteria": {
+      "has_bee": "2025-07-05 11:35:34 +0000"
     },
     "done": true
   },
@@ -1546,6 +1695,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 11:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-05 11:14:22 +0000"
     },
     "done": true
   },

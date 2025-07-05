@@ -289,3 +289,132 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [05Jul2025 11:03:24.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0o_komorebi_o0 joined the game
 [05Jul2025 11:08:16.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0o_komorebi_o0 has made the advancement [Acquire Hardware]
 [05Jul2025 11:10:00.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0o_komorebi_o0 has made the advancement [Suit Up]
+[05Jul2025 11:17:28.644] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-269, y=12, z=-1480} but found not block entity block Block{minecraft:water}[level=0] at location
+[05Jul2025 11:17:28.645] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-269, y=12, z=-1480}
+[05Jul2025 11:17:34.374] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Jul2025 11:17:34.375] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[05Jul2025 11:17:34.376] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[05Jul2025 11:17:34.540] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-280, y=12, z=-1495} but found not block entity block Block{minecraft:water}[level=0] at location
+[05Jul2025 11:17:34.541] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-280, y=12, z=-1495}
+[05Jul2025 11:17:36.327] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-265, y=12, z=-1499} but found not block entity block Block{minecraft:water}[level=0] at location
+[05Jul2025 11:17:36.328] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-265, y=12, z=-1499}
+[05Jul2025 11:17:43.086] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-284, y=12, z=-1510} but found not block entity block Block{minecraft:water}[level=0] at location
+[05Jul2025 11:17:43.086] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-284, y=12, z=-1510}
+[05Jul2025 11:22:10.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0o_komorebi_o0 has made the advancement [Gucci backpack]
+[05Jul2025 11:35:56.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0o_komorebi_o0 has made the advancement [Hammer Time!]
+[05Jul2025 11:39:37.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0o_komorebi_o0 has made the advancement [Best Friends Forever]
+[05Jul2025 11:39:37.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0o_komorebi_o0 has made the advancement [Jungle Fliers]
+[05Jul2025 11:39:48.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.7977248823006537
+[05Jul2025 11:39:49.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.7185278439317738
+[05Jul2025 11:39:51.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8203917819899008
+[05Jul2025 11:39:52.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8288527924083242
+[05Jul2025 11:39:53.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8301743243086639
+[05Jul2025 11:39:54.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8298517279718793
+[05Jul2025 11:39:54.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.83029511794121
+[05Jul2025 11:39:57.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8305001758448877
+[05Jul2025 11:39:58.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8305018684465328
+[05Jul2025 11:39:58.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8305018684465328
+[05Jul2025 11:39:58.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8305043609133161
+[05Jul2025 11:39:59.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.5831318166938585
+[05Jul2025 11:40:00.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.48320420143107
+[05Jul2025 11:40:00.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.48320420143107
+[05Jul2025 11:40:01.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.7509238784279838
+[05Jul2025 11:40:01.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.7509238784279838
+[05Jul2025 11:40:03.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.43939108029550106
+[05Jul2025 11:42:02.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.3895595125663555
+[05Jul2025 11:42:05.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8170645023441855
+[05Jul2025 11:42:05.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8170645023441855
+[05Jul2025 11:42:06.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8292111419575847
+[05Jul2025 11:42:08.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.7710540485484062
+[05Jul2025 11:42:08.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.7987552559775043
+[05Jul2025 11:42:08.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8024744886621752
+[05Jul2025 11:42:08.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.818444529606893
+[05Jul2025 11:42:08.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.26067255909335163
+[05Jul2025 11:42:08.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.26067255909335163
+[05Jul2025 11:42:08.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.774157387773877
+[05Jul2025 11:42:10.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8041154622002871
+[05Jul2025 11:42:10.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8245840842538085
+[05Jul2025 11:42:11.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8293469831958947
+[05Jul2025 11:42:13.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -1.1395916644362387,6.167303552996557,8.220970849189598
+[05Jul2025 11:42:13.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -1.282875284749025,6.91527546033177,9.037911518247029
+[05Jul2025 11:42:13.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -1.4430263037588702,7.676986685581667,9.85044916391189
+[05Jul2025 11:42:13.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -1.623812692584579,8.45081598923231,10.656779703233497
+[05Jul2025 11:42:13.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -1.8261831182321657,9.03533343505218,11.456066280611367
+[05Jul2025 11:42:13.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -2.0516394867197505,9.452877822265307,12.247049994757845
+[05Jul2025 11:42:13.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -2.3042091988177162,9.723151971787274,13.026663861102406
+[05Jul2025 11:42:13.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -2.580692879979779,9.863533771665658,13.796249521685695
+[05Jul2025 11:42:13.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -2.8826882516200385,9.889350519158384,14.553917150232337
+[05Jul2025 11:42:13.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -3.2111169753268314,9.814120890446972,15.298018407540894
+[05Jul2025 11:42:13.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -3.566624774050979,9.649768357923506,16.02690999731726
+[05Jul2025 11:42:13.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -4.5418881370883355,-1.1489535300316476,9.461406929594887
+[05Jul2025 11:42:13.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -5.033259003118928,-1.7028595676680425,10.107098420752891
+[05Jul2025 11:42:13.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -5.536368466771819,-2.289404692863343,10.745468282443653
+[05Jul2025 11:42:13.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -6.050121275032552,-2.9047374932856087,11.377085746403736
+[05Jul2025 11:42:13.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -6.573550170554881,-3.545461023258042,12.002451648360875
+[05Jul2025 11:42:13.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -7.105513375041937,-4.208579176693732,12.622303672631688
+[05Jul2025 11:42:13.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! -7.645003840035997,-4.891449388024,13.237292456783052
+[05Jul2025 11:42:13.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! 4.681153275354063,-2.383853625015206,-12.062294311621145
+[05Jul2025 11:42:13.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! 4.681153275354063,-2.383853625015206,-12.062294311621145
+[05Jul2025 11:42:13.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved too quickly! 4.681153275354063,-2.383853625015206,-12.062294311621145
+[05Jul2025 11:42:13.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8251978178859247
+[05Jul2025 11:42:14.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8283508292885875
+[05Jul2025 11:42:14.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8292829493090048
+[05Jul2025 11:42:14.605] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[05Jul2025 11:42:14.606] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[05Jul2025 11:42:15.199] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[05Jul2025 11:42:15.199] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[05Jul2025 11:42:15.200] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[05Jul2025 11:42:15.200] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[05Jul2025 11:42:15.200] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[05Jul2025 11:42:15.208] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[05Jul2025 11:42:15.209] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[05Jul2025 11:42:16.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.830467064833291
+[05Jul2025 11:42:17.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8305058456922986
+[05Jul2025 11:42:17.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8305068432070342
+[05Jul2025 11:42:19.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8305066977282148
+[05Jul2025 11:42:20.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8182728132675967
+[05Jul2025 11:42:20.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8182728132675967
+[05Jul2025 11:42:21.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.82963426189201
+[05Jul2025 11:42:22.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8301627535169313
+[05Jul2025 11:42:24.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8245301720376118
+[05Jul2025 11:42:25.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8302560443509112
+[05Jul2025 11:42:25.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8302560443509112
+[05Jul2025 11:42:26.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8303463065546541
+[05Jul2025 11:42:27.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8304164685907892
+[05Jul2025 11:42:27.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8304164685907892
+[05Jul2025 11:42:27.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8304164685907892
+[05Jul2025 11:42:27.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8304164685907892
+[05Jul2025 11:42:28.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8282284273310395
+[05Jul2025 11:42:28.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.827158535246303
+[05Jul2025 11:42:29.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8303118249234896
+[05Jul2025 11:42:30.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8304520013791701
+[05Jul2025 11:42:31.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8302232418768856
+[05Jul2025 11:42:31.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8302232418768856
+[05Jul2025 11:42:31.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8302232418768856
+[05Jul2025 11:42:32.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8303972035498006
+[05Jul2025 11:42:33.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8232334464519242
+[05Jul2025 11:42:33.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.7795596546772109
+[05Jul2025 11:42:34.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.7727729611647942
+[05Jul2025 11:42:37.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.7873750594726581
+[05Jul2025 11:42:38.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8278212392325522
+[05Jul2025 11:42:38.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8278212392325522
+[05Jul2025 11:42:38.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8278212392325522
+[05Jul2025 11:42:38.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8278212392325522
+[05Jul2025 11:42:39.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8299085207117939
+[05Jul2025 11:42:40.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8304824667348282
+[05Jul2025 11:42:40.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8304824667348282
+[05Jul2025 11:42:41.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8305051943031571
+[05Jul2025 11:42:42.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8305083053739232
+[05Jul2025 11:42:44.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8305067155959226
+[05Jul2025 11:42:45.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.830508393883296
+[05Jul2025 11:42:45.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.830508393883296
+[05Jul2025 11:42:46.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8305085027614598
+[05Jul2025 11:42:47.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8305085089653697
+[05Jul2025 11:42:48.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8305085091947484
+[05Jul2025 11:42:48.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.8305085091947484
+[05Jul2025 11:42:49.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.7397872394574438
+[05Jul2025 11:42:50.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.5251561605590803
+[05Jul2025 11:42:50.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of 0o_komorebi_o0) moved wrongly! 0.5251561605590803
+[05Jul2025 11:43:42.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 0o_komorebi_o0 lost connection: Disconnected
+[05Jul2025 11:43:42.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0o_komorebi_o0 left the game
+[05Jul2025 11:43:42.974] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
