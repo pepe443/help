@@ -6763,6 +6763,24 @@
     },
     "done": true
   },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-07-04 01:34:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2025-07-04 01:34:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow_smithing": {
+    "criteria": {
+      "has_snow": "2025-07-04 01:39:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_spear": {
     "criteria": {
       "has_steel_ingot": "2025-07-04 01:58:18 +0000"
@@ -6778,12 +6796,6 @@
   "spartanweaponry:recipes/steel_longbow": {
     "criteria": {
       "has_steel_ingot": "2025-07-04 01:58:18 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:scythe": {
-    "criteria": {
-      "has_scythe": "2025-07-04 01:34:08 +0000"
     },
     "done": true
   },
@@ -6865,12 +6877,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/snow_smithing": {
-    "criteria": {
-      "has_snow": "2025-07-04 01:39:49 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/steel_quarterstaff": {
     "criteria": {
       "has_steel_ingot": "2025-07-04 01:58:18 +0000"
@@ -6898,12 +6904,6 @@
   "spartanweaponry:recipes/steel_pike": {
     "criteria": {
       "has_steel_ingot": "2025-07-04 01:58:18 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:flanged_mace": {
-    "criteria": {
-      "has_flanged_mace": "2025-07-04 01:34:32 +0000"
     },
     "done": true
   },
